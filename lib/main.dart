@@ -28,9 +28,6 @@ class HomePage extends StatefulWidget {
 
   HomePage() {
     items = [];
-    // items.add(Item(title: "Banana", done: false));
-    // items.add(Item(title: "Abacate", done: true));
-    // items.add(Item(title: "Laranja", done: false));
   }
 
   @override
